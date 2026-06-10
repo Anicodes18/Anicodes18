@@ -9,11 +9,12 @@ Turning complex datasets into actionable insights through analytics, machine lea
 
 I work at the intersection of data analytics and machine learning, building solutions that combine business understanding with scalable data processing.
 
-- 📊 Business Analytics & SQL-based data exploration
-- 🤖 Predictive modeling & recommendation systems
-- ⚡ Large-scale data processing with PySpark
-- 📈 Dashboard development using Power BI
-- 🔄 Workflow orchestration with Dagster
+- 📊 Data Analytics, KPI Reporting & Business Intelligence
+- 🤖 Machine Learning & Predictive Modelling
+- ⚡ Scalable Data Processing & Workflow Automation
+- 📈 Dashboard Development & Data Storytelling
+- ☁️ Cloud & Data Engineering Fundamentals
+- 🔄 End-to-End Data Pipeline Development
 
 ---
 
@@ -32,17 +33,42 @@ PyTorch | Tensorflow | FastAI
 Power BI | Tableau | Matplotlib | Seaborn | Plotly | Dash
 
 **Data Engineering & Tools:**  
-Dagster | MongoDB | Git  
+Dagster | MongoDB | Git
+
+### Cloud & AWS
+AWS EC2 | AWS CodeBuild | AWS Elastic BeanStalk | AWS CodePipeline | AWS IAM | AWS CloudWatch
 
 ---
 
-## 📊 Featured Projects
+## 🚀 Featured Projects
 
-- 🚗 In-Vehicle Coupon Recommendation System  
-- ⚡ Energy Consumption Analysis  
-- 📈 Data Analytics & Visualization  
-- 🏗 Data-Intensive Scalable Systems  
+### 🌱 ESG Analytics Platform
+Built an end-to-end ESG analytics platform using Python, SQL, MongoDB, Dagster, and Power BI, automating ETL workflows and delivering actionable sustainability insights.
+
+### 🎓 Student Performance Prediction System
+Developed machine learning models to predict student academic performance using feature engineering, model evaluation, and automated ML pipelines.
+
+### 🏥 Medical Image Classification with Deep Learning
+Implemented CNNs, Vision Transformers, FastAI, and PyTorch for medical image classification, leveraging transfer learning and embedding analysis to improve model performance.
+
+### 🚗 In-Vehicle Coupon Recommendation System
+Analyzed behavioural patterns and developed machine learning classification models on 12K+ records to predict coupon preferences through feature engineering and hyperparameter tuning.
+
+### ⚡ Energy Consumption Analytics
+Performed exploratory data analysis, forecasting, and visualization to identify energy consumption trends and support data-driven sustainability decisions.
 
 ---
 
-📫 Reach me on LinkedIn (https://linkedin.com/in/aniket-rane)
+## 📚 Currently Exploring
+
+- Generative AI & LLM Applications
+- AI Evaluation & Responsible AI
+- MLOps & Model Monitoring
+- Advanced AWS Data Services
+- Data Governance & Analytics Engineering
+
+---
+
+📫 Reach me on LinkedIn (https://www.linkedin.com/in/aniket-rane)
+
+📧 Open to Data Analyst, BI Analyst, Analytics Engineer, Data Scientist, and AI-focused opportunities.
